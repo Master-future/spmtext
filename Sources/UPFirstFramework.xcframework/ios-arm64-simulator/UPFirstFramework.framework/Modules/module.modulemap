@@ -1,0 +1,6 @@
+framework module UPFirstFramework {
+  umbrella header "UPFirstFramework.h"
+
+  export *
+  module * { export * }
+}
